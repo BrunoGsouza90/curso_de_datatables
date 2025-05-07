@@ -10,7 +10,7 @@
 </head>
 <body>
     
-    <h1>DataTables</h1>
+    <h1 id="titulo">DataTables</h1>
 
     <h2>Listar Usuários</h2>
 
